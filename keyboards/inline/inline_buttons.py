@@ -1,0 +1,184 @@
+from aiogram.types import InlineKeyboardMarkup,InlineKeyboardButton
+inline_tugmalar=InlineKeyboardMarkup(
+inline_keyboard=[
+        [
+            InlineKeyboardButton(text='Fotiha😇',callback_data='sura1'),
+            InlineKeyboardButton(text='Baqoro😇',callback_data='sura2'),
+            InlineKeyboardButton(text='Oli imron😇',callback_data='sura3'),
+        ],
+        [
+            InlineKeyboardButton(text='Nisa😇',callback_data='sura4'),
+            InlineKeyboardButton(text="Ma'ida😇",callback_data='sura5'),
+            InlineKeyboardButton(text="An'am😇",callback_data='sura6'),
+            ],
+        [
+            InlineKeyboardButton(text="Ar'of😇",callback_data='sura7'),
+            InlineKeyboardButton(text='Anfal😇',callback_data='sura8'),
+            InlineKeyboardButton(text='Tavba😇',callback_data='sura9'),
+        ],
+
+        [
+            InlineKeyboardButton(text='Yunus😇',callback_data='sura10'),
+            InlineKeyboardButton(text='Hud😇',callback_data='sura11'),
+            InlineKeyboardButton(text='Yusuf😇',callback_data='sura12')
+        ],
+        [
+            InlineKeyboardButton(text="Ra'd😇",callback_data='sura13'),
+            InlineKeyboardButton(text='Ibrohim😇',callback_data='sura14'),
+            InlineKeyboardButton(text='Hijr😇',callback_data='sura15')
+        ],
+        [
+            InlineKeyboardButton(text='Nahl😇',callback_data='sura16'),
+            InlineKeyboardButton(text='Isro😇',callback_data='sura17'),
+            InlineKeyboardButton(text='Kahf😇',callback_data='sura18')
+        ],
+        [
+            InlineKeyboardButton(text='Maryam😇',callback_data='sura19'),
+            InlineKeyboardButton(text='Toha😇',callback_data='sura20'),
+            InlineKeyboardButton(text='Anbiya😇',callback_data='sura21')
+        ],
+        [
+            InlineKeyboardButton(text='Haj😇',callback_data='sura22'),
+            InlineKeyboardButton(text="Mu'minun😇",callback_data='sura23'),
+            InlineKeyboardButton(text='Nur😇',callback_data='sura24')
+        ],
+        [
+            InlineKeyboardButton(text='Furqon😇',callback_data='sura25'),
+            InlineKeyboardButton(text='Shuaro😇',callback_data='sura26'),
+            InlineKeyboardButton(text='Naml😇',callback_data='sura27')
+        ],
+        [
+            InlineKeyboardButton(text='Qosos😇',callback_data='sura28'),
+            InlineKeyboardButton(text='Ankabut😇',callback_data='sura29'),
+            InlineKeyboardButton(text='Rum😇',callback_data='sura30')
+        ],
+        [
+            InlineKeyboardButton(text='Luqman😇',callback_data='sura31'),
+            InlineKeyboardButton(text='Sajda😇',callback_data='sura32'),
+            InlineKeyboardButton(text='Axzab😇',callback_data='sura33')
+        ],
+        [
+            InlineKeyboardButton(text='Saba😇',callback_data='sura34'),
+            InlineKeyboardButton(text='Fatir😇',callback_data='sura35'),
+            InlineKeyboardButton(text='Yasin😇',callback_data='sura36')
+        ],
+        [
+            InlineKeyboardButton(text='Soffat😇',callback_data='sura37'),
+            InlineKeyboardButton(text='Sod😇',callback_data='sura38'),
+            InlineKeyboardButton(text='Zumar😇',callback_data='sura39')
+        ],
+        [
+            InlineKeyboardButton(text="G'ofir😇",callback_data='sura40'),
+            InlineKeyboardButton(text='Fussilat😇',callback_data='sura41'),
+            InlineKeyboardButton(text='Shuro😇',callback_data='sura42')
+        ],
+        [
+            InlineKeyboardButton(text='Zuxruf😇',callback_data='sura43'),
+            InlineKeyboardButton(text='Duxon😇',callback_data='sura44'),
+            InlineKeyboardButton(text='Jasiyah😇',callback_data='sura45')
+        ],
+[
+            InlineKeyboardButton(text='Ahqof😇',callback_data='sura46'),
+            InlineKeyboardButton(text='Muhammad😇',callback_data='sura47'),
+            InlineKeyboardButton(text='Fath😇',callback_data='sura48'),
+        ],
+        [
+            InlineKeyboardButton(text='Hujurot😇',callback_data='sura49'),
+            InlineKeyboardButton(text="Qof😇",callback_data='sura50'),
+            InlineKeyboardButton(text="Zariyat😇",callback_data='sura51'),
+            ],
+        [
+            InlineKeyboardButton(text="Tur😇",callback_data='sura52'),
+            InlineKeyboardButton(text='Najm😇',callback_data='sura53'),
+            InlineKeyboardButton(text='Qomar😇',callback_data='sura54'),
+        ],
+
+        [
+            InlineKeyboardButton(text='Ar Rohman😇',callback_data='sura55'),
+            InlineKeyboardButton(text='Vaqia😇',callback_data='sura56'),
+            InlineKeyboardButton(text='Hadid😇',callback_data='sura57')
+        ],
+        [
+            InlineKeyboardButton(text='Mujodala😇',callback_data='sura58'),
+            InlineKeyboardButton(text='Hashr😇',callback_data='sura59'),
+            InlineKeyboardButton(text='Mumtahana😇',callback_data='sura60')
+        ],
+        [
+            InlineKeyboardButton(text='Soff😇',callback_data='sura61'),
+            InlineKeyboardButton(text="Jumu'a😇",callback_data='sura62'),
+            InlineKeyboardButton(text='Munafiqun😇',callback_data='sura63')
+        ],
+        [
+            InlineKeyboardButton(text="Tag'obun😇",callback_data='sura64'),
+            InlineKeyboardButton(text='Tolaq😇',callback_data='sura65'),
+            InlineKeyboardButton(text='Tahrim😇',callback_data='sura66')
+        ],
+        [
+            InlineKeyboardButton(text='Mulk😇',callback_data='sura67'),
+            InlineKeyboardButton(text="Qolam😇",callback_data='sura68'),
+            InlineKeyboardButton(text='Haqqoh😇',callback_data='sura69')
+        ],
+        [
+            InlineKeyboardButton(text="Ma'arij😇",callback_data='sura70'),
+            InlineKeyboardButton(text='Nuh😇',callback_data='sura71'),
+            InlineKeyboardButton(text='Jin😇',callback_data='sura72')
+        ],
+        [
+            InlineKeyboardButton(text='Muzzammil😇',callback_data='sura73'),
+            InlineKeyboardButton(text='Muddasir😇',callback_data='sura74'),
+            InlineKeyboardButton(text='Qiyamah😇',callback_data='sura75')
+        ],
+        [
+            InlineKeyboardButton(text='Insan😇',callback_data='sura76'),
+            InlineKeyboardButton(text='Mursalat😇',callback_data='sura77'),
+            InlineKeyboardButton(text='Naba😇',callback_data='sura78')
+        ],
+        [
+            InlineKeyboardButton(text='Naziat😇',callback_data='sura79'),
+            InlineKeyboardButton(text='Abasa😇',callback_data='sura80'),
+            InlineKeyboardButton(text='Takvir😇',callback_data='sura81')
+        ],
+        [
+            InlineKeyboardButton(text='Intifor😇',callback_data='sura82'),
+            InlineKeyboardButton(text='Mutoffifun😇',callback_data='sura83'),
+            InlineKeyboardButton(text='Inshiqoq😇',callback_data='sura84')
+        ],
+        [
+            InlineKeyboardButton(text="Buruj😇",callback_data='sura85'),
+            InlineKeyboardButton(text='Toriq😇',callback_data='sura86'),
+            InlineKeyboardButton(text="A'la😇",callback_data='sura87')
+        ],
+        [
+            InlineKeyboardButton(text="G'oshiyah😇",callback_data='sura88'),
+            InlineKeyboardButton(text='Fajr😇',callback_data='sura89'),
+            InlineKeyboardButton(text='Balad😇',callback_data='sura90')
+        ],
+[
+            InlineKeyboardButton(text='Shams😇',callback_data='sura91'),
+            InlineKeyboardButton(text='Layl😇',callback_data='sura92'),
+            InlineKeyboardButton(text='Zuho😇',callback_data='sura93'),
+        ],
+        [
+            InlineKeyboardButton(text='Sharh😇',callback_data='sura94'),
+            InlineKeyboardButton(text="Tiyn😇",callback_data='sura95'),
+            InlineKeyboardButton(text="Alaq😇",callback_data='sura96'),
+            ],
+        [
+            InlineKeyboardButton(text="Qadr😇",callback_data='sura97'),
+            InlineKeyboardButton(text='Bayyina😇',callback_data='sura98'),
+            InlineKeyboardButton(text='Zalzala😇',callback_data='sura99'),
+        ],
+
+        [
+
+
+        ],
+
+
+
+
+    ],
+
+
+
+)
