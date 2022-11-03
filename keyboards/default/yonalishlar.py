@@ -13,7 +13,7 @@ yonalishlar_button= ReplyKeyboardMarkup(
             KeyboardButton(text="Turli tildagi Nashidalar🌐")
         ],
         [
-            KeyboardButton(text="Turli Hil Nashidalar😇"),
+            KeyboardButton(text="Turli Xil Nashidalar😇"),
             KeyboardButton(text="Yangi Nashidalar🎧")
         ],
         [

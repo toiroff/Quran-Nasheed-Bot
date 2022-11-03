@@ -20,7 +20,7 @@ turlixil_button= ReplyKeyboardMarkup(
     ],
     resize_keyboard=True
 )
-@dp.message_handler(text="Turli Hil Nashidalar😇")
+@dp.message_handler(text="Turli Xil Nashidalar😇")
 async def echo_bot(message : types.Message):
     await message.answer(f'Assalomu alaykum va Rahmatullohi va Barakatuh Hurmatli Obunachi👤 siz bu yerda Turli xil Nashidalarni topishingiz mumkun 😊',reply_markup=turlixil_button)
 
